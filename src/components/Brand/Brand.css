@@ -1,0 +1,8 @@
+.brand {
+  border: 1px solid red;
+  color: white;
+}
+
+.brand-name {
+  padding: 8px 16px;
+}
