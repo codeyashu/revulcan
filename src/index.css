@@ -1,7 +1,21 @@
-body {
+* {
   box-sizing: border-box;
-  margin: 2em;
-  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+
+
+body {
+  margin: 0;
+  padding: 2em 2em 0em 2em;
+  height: 100%;
   font-family: sans-serif;
   background-color: #160E37;
+}
+
+#root {
+  height: 100%;
 }
