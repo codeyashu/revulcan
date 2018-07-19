@@ -1,0 +1,17 @@
+.about {
+  background-color: #444444;
+  min-width: 100vw;
+  min-height: 300px;
+  overflow-x: auto;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+/*   display: flex;
+  min-height: 300px;
+  min-width: 100%;
+  overflow-x: auto; */
+

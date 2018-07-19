@@ -2,20 +2,13 @@
   box-sizing: border-box;
 }
 
-html {
-  height: 100%;
-}
-
-
-
 body {
   margin: 0;
-  padding: 2em 2em 0em 2em;
-  height: 100%;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
   font-family: sans-serif;
+  overflow: hidden;
   background-color: #160E37;
-}
-
-#root {
-  height: 100%;
+  color: #fff;
 }
